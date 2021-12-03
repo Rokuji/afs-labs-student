@@ -19,7 +19,7 @@ SET row_security = off;
 --
 -- Name: plpgsql; Type: EXTENSION; Schema: -; Owner: 
 --
-/*Testing DB
+/*Testing DBs
 */
 CREATE EXTENSION IF NOT EXISTS plpgsql WITH SCHEMA pg_catalog;
 
